@@ -1,0 +1,3 @@
+// the configured options and settings for CrossPlatform_CPP_Calculator
+#define CrossPlatform_CPP_Calculator_VERSION_MAJOR @CrossPlatform_CPP_Calculator_VERSION_MAJOR@
+#define CrossPlatform_CPP_Calculator_VERSION_MINOR @CrossPlatform_CPP_Calculator_VERSION_MINOR@
