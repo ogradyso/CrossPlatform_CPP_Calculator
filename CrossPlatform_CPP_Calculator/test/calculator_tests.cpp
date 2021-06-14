@@ -1,7 +1,7 @@
 
 #include "catch.h"
-#include "Calculator.h"
-#include "Calculator.cpp"
+#include "../include/Calculator.h"
+#include "../src/Calculator.cpp"
 
 
 TEST_CASE("Simple Calculator Operations") {

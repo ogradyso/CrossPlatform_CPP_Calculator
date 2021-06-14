@@ -1,6 +1,6 @@
 #include "catch.h"
-#include "Calculator.h"
-#include "Calculator.cpp"
+#include "../include/Calculator.h"
+#include "../src/Calculator.cpp"
 
 TEST_CASE("Scientific calculator operations") {
 	SECTION("Square a value") {

@@ -2,6 +2,9 @@
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
+//#define CATCH_CONFIG_MAIN
+//#include "..\test\catch.h"
+
 enum class Operation { add, subtract, multiply, divide, power };
 
 template <class T>
