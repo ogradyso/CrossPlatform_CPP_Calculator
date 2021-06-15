@@ -3,10 +3,10 @@
 
 
 
-#include "..\include\Calculator.h"
-#include "..\lib\Calculator.cpp"
+#include "Calculator.h"
+#include "Calculator.cpp"
 #include <iostream>
-#include ".\CrossPlatform_CPP_CalculatorConfig.h"
+#include "CrossPlatform_CPP_CalculatorConfig.h"
 
 //#define CATCH_CONFIG_MAIN
 //#include "..\test\catch.h"

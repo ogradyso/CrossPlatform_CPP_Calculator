@@ -1,4 +1,4 @@
-#include "..\include\Calculator.h"
+#include "Calculator.h"
 #include <cmath>
 
 template <typename T>
