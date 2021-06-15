@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CrossPlatform_CPP_Calculator.dir/CrossPlatform_CPP_Calculator.cpp.o -o CrossPlatform_CPP_Calculator 
